@@ -2,7 +2,7 @@ This project was created for the Laboratory of Computational Physiscs of the Phy
 The complete code is available in the 'group2305_exercise2.ipynb' file.
 The report on the RBM is presented in the 'group2305_assignment.pdf' file, and the abstract is the following:
 
-#Restricted Boltzmann Machines
+# Restricted Boltzmann Machines
 
 *Nowadays, model explainability in Machine Learning algorithms is an issue often overlooked.
 However, in some circumstances, a human-understandable explanation of algorithm decision-making
