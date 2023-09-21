@@ -1,0 +1,26 @@
+Small enunciation of the problem
+One hot encoding
+- explain the choices of 1,-1,-1,-1 for the vectors
+- 1000 could be a good idea, too, but was too limited
+Explain RMSprop
+- how we implemented it
+- Adam returns similar results, was not used
+	- Include two best results later in the analysis
+How to increase CD
+- for cycle was implemented, updating weigths appropriately
+Usage of 10 or -11
+- no good results in the range of temperatures was found
+- physical reasoning: -1 is inclusive. 0 kills the weigths from h
+Explain additional metrics and tests
+- Include .py libraries 
+- Comment the meaning of these metrics
+Inlcude Giacomo's class with proper explanation
+- Refactor the code
+Show heatmaps
+- explain the choice of temperatures
+- 10
+- -11
+Explain patterns in W and biases (Baiesi's graph)
+- use Baiesi graph or our matshow (adjust colormap)
+- implement point 6.1 as a matrix mutiplication
+- explain weigths patterns
